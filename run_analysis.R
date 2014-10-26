@@ -39,8 +39,5 @@ source( "run_analysis.step4.R" )
 # activity and each subject
 source( "run_analysis.step5.R" )
 
-# Cleaning the workspace
-rm( list = ls() )
-
 # Output
 dataset     <- read.table( file = "dataset.txt", header = T )
