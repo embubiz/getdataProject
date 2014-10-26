@@ -13,6 +13,15 @@ readable and easy to understand.
 
 The generous use of comments then, also helps in the comprehension of the work.
 
-Enjoy!
+===============
+HOW TO USE THE CONTENT OF THIS REPO
+
+1. Copy run_analysis.R and the functions and subscripts directories in your working directory
+   NOTE: your working directory can also be empty. There is no need to download the data first.
+2. Change the variable wd in the run_analysis.R script, assigning it the path of your working directory
+3. Run the script run_analysis.R
+4. In your working directory you should have a new file called dataset.txt and the only
+   variable in your R environment should be a tidy data frame called dataset, having 180 rows
+   and 68 columns
 
 EB
