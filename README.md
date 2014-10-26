@@ -11,7 +11,7 @@ Doing so, I could split the project into different tasks, one for each step of t
 project itself (run_analysis.step*.R), and therefore make the different sections more
 readable and easy to understand.
 
-The generous use of comments then, also helps in the comprehension of the work.
+The generous use of comments also helps in the comprehension of the work.
 
 ===============
 HOW TO USE THE CONTENT OF THIS REPO
